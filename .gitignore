@@ -175,3 +175,6 @@ pyrightconfig.json
 
 # Claude
 CLAUDE.md
+
+# Jetbrain
+.idea
